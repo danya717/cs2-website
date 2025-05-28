@@ -9,11 +9,12 @@ p {
     position: static;
     font-size: 20px;
     box-sizing: border-box;
+    color: white;
 }
 
 body {
     color: black ;
-    background-color: lightblue;
+    background-color: black;
     font-family: sans-serif;
 
     background-size: cover;
@@ -23,63 +24,73 @@ a {
     text-decoration: none;
 }
 
-.red-h1 {
-    color: red;
+.white-h1 {
+    margin-left: 1100px;
+    color: white;
 }
 
-.yellow-h1 {
-    color: gold;
+.white-h1 {
+    color: white;
 }
 
-.yellow2-h1 {
-    color: gold;
+.white2-h1 {
+    color: white;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.img-cs {
+    margin-right: 500px;
+    text-align: right;
 }
 
 .main {
-    border: 2px solid yellow;
+    border: 2px solid white;
 }
 
 .info {
-    border: double red;
+    /*border: double red; */
     margin: 10px;
 }
 
 .info2 {
-    border: double red;
+    /*border: double red; */
     margin: 10px
 }
 
 .info3 {
-    border: double red;
+    /*border: double red; */
     margin: 10px
 }
 
 .info4 {
-    border: double red;
+    /*border: double red; */
     margin: 10px;
 }
 
 .info5 {
-    border: double red;
+    /*border: double red; */
     margin: 10px;
 }
 
 .info6 {
-    border: double red;
+    /*border: double red; */
     margin: 10px;
 }
 
 .info7 {
-    border: double red;
+    /*border: double red; */
     margin: 10px;
 }
 
 .second-main {
-    border: 2px solid yellow;
+    border: 2px solid white;
+}
+
+.cs-info {
+    margin-left: 1100px;
+}
+
+.white-main {
+    color: white;
+    margin-left: 10px;
+    margin: 20px;
 }

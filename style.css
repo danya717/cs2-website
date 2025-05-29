@@ -22,6 +22,7 @@ body {
 
 a {
     text-decoration: none;
+    color: orange;
 }
 
 .white-h1 {
@@ -38,12 +39,17 @@ a {
 }
 
 .img-cs {
-    margin-right: 500px;
+    /*margin-right: 100px;*/
     text-align: right;
+    width: 1800px;
+    height: 20px;
+
+
 }
 
 .main {
     border: 2px solid white;
+    margin-right: 500px;
 }
 
 .info {

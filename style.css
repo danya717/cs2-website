@@ -31,6 +31,10 @@ a {
 }
 
 .white-h1 {
+    position: absolute;
+    top: 0;
+    margin-top: 100px;
+    right: 170px;
     color: white;
 }
 
@@ -39,12 +43,21 @@ a {
 }
 
 .img-cs {
-    /*margin-right: 100px;*/
-    text-align: right;
-    width: 1800px;
-    height: 20px;
+    position: absolute;
+    top: 0;
+    right: 150px;
+    margin-top: 150px;
+}
 
+.cs-info {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    margin-top: 480px;
+}
 
+.container {
+    margin-bottom: 300px
 }
 
 .main {
@@ -91,12 +104,12 @@ a {
     border: 2px solid white;
 }
 
-.cs-info {
-    margin-left: 1100px;
-}
-
 .white-main {
     color: white;
     margin-left: 10px;
     margin: 20px;
+}
+
+.info-container {
+    border: 2px solid white;
 }

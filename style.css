@@ -40,6 +40,8 @@ a {
 
 .white2-h1 {
     color: white;
+    margin-bottom: 20px;
+    margin-left: 100px;
 }
 
 .img-cs {
@@ -63,6 +65,9 @@ a {
 .main {
     border: 2px solid white;
     margin-right: 500px;
+    margin-top: 90px;
+    margin-bottom: 1px;
+    margin-left: 100px;
 }
 
 .info {
@@ -102,14 +107,34 @@ a {
 
 .second-main {
     border: 2px solid white;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .white-main {
     color: white;
-    margin-left: 10px;
-    margin: 20px;
+    margin-left: 100px;
 }
 
 .info-container {
     border: 2px solid white;
+}
+
+.Contents {
+    color: white;
+    size: 10;
+}
+
+.Cont-box {
+    border: 2px solid white;
+    margin-right: 1550px;
+    margin-bottom: 75px;
+    margin-top: -200px;
+    margin-left: 100px;
+}
+
+.img2 {
+    margin-top: 1px;
+    margin-bottom: 10px;
+    margin-left: 100px;
 }
